@@ -27,6 +27,3 @@ This project is a Java console-based Chat Application that simulates basic messa
 - Data Storage using Collections
 - User Input Handling
 
----
-
-## 📂 Project Structure
