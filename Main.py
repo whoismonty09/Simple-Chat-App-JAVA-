@@ -25,7 +25,7 @@ public class Main {
         int choice;
 
         do {
-            System.out.println("\n💬 Chat Application");
+            System.out.println("\n💬 Chat Application developed by Monty");
             System.out.println("1. Send Message");
             System.out.println("2. View Chat History");
             System.out.println("3. Exit");
